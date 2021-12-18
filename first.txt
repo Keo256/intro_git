@@ -1,2 +1,5 @@
 Citの練習を
 基本的なワークフローを学ぶ
+
+・git add
+・git commit
